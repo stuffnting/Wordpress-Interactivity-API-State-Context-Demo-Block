@@ -1,0 +1,34 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "snt-demo-block/wp-i-api-state-context-demo",
+  "version": "0.1.0",
+  "title": "Wp I Api State Context Demo",
+  "category": "widgets",
+  "icon": "media-interactive",
+  "description": "Demonstrate the WP Interactivity APIusing global state, local context, and derived state",
+  "example": {},
+  "attributes": {
+    "productPrice": {
+      "type": "number",
+      "default": 1
+    },
+    "productName": {
+      "type": "string",
+      "default": "Product Name"
+    }
+  },
+  "supports": {
+    "interactivity": true,
+    "align": [
+      "full",
+      "wide"
+    ]
+  },
+  "textdomain": "wp-i-api-state-context-demo",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScriptModule": "file:./view.js"
+}

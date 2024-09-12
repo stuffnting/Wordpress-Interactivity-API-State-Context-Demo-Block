@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AACE;EACE;AAAJ,C","sources":["webpack://wp-i-api-state-context-demo/./src/editor.scss"],"sourcesContent":[".wp-block-snt-demo-block-wp-i-api-state-context-demo {\n  .product-output {\n    display: block;\n  }\n}\n"],"names":[],"sourceRoot":""}
