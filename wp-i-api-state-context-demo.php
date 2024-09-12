@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       Wp I Api State Context Demo
- * Description:       An interactive block with the Interactivity API
+ * Plugin Name:       Wp Interactivity Api State Context Demo
+ * Description:       An interactive block to demonstrate Interactivity API
  * Version:           0.1.0
  * Requires at least: 6.6
  * Requires PHP:      7.0
